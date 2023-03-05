@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+    <channel>
+
+        <!--Título del canal-->
+        <title>Grupo 4</title>
+
+        <!--Enlace a la web (En este caso al Start.me)-->
+        <link>index.html</link>
+
+        <!--Descripción de la web-->
+        <description>RSS del equipo 4</description>
+
+        <item>
+
+            <category>Tecnología</category>
+
+            <title>El drama de las tarjetas gráficas: las noticias que llegan desde China son un varapalo para los fabricantes</title>
+
+            <author>JuanCarlosLopez@gmail.com</author>
+
+            <pubDate>21/02/2023</pubDate>
+
+            <link>https://www.xataka.com/componentes/drama-tarjetas-graficas-noticias-que-llegan-china-varapalo-para-fabricantes</link>
+
+            <enclosure url="https://i.blogs.es/3fe6e3/tarjetagrafica-ap/1366_2000.jpeg" length="777" type="imgage/jpeg"/>
+
+        </item>
+
+    </channel>
+
+</rss>

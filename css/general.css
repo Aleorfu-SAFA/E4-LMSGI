@@ -1,0 +1,55 @@
+#menuSuperior {
+
+    background-color: rgb(30, 30, 30);
+
+}
+
+.itemsMenu {
+
+    background-color: rgb(80, 80, 80);
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    min-width: 200px;
+    text-align: center;
+
+}
+
+body {
+
+    background-color: rgb(80, 80, 80);
+
+}
+
+main {
+
+    padding: 50px 100px 50px 100px;
+
+}
+
+label {
+
+    color: white;
+
+}
+
+.noticia {
+
+    color: white;
+
+    background-color: rgb(50, 50, 50);
+    border-radius: 20px;
+    box-shadow: 10px 10px 0px 5px black;
+
+    padding: 20px;
+    margin-bottom: 40px;
+
+}
+
+.imagen {
+
+    width: 100%;
+
+}
