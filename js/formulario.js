@@ -27,8 +27,6 @@ function publicar() {
 
     }
 
-    creaXML()
-
 }
 
 // Funcion vaciar datos
