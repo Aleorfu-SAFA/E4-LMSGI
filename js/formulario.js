@@ -16,7 +16,7 @@ const datos = sessionStorage.getItem('datos');
 function publicar() {
 
     // Si no hay datos
-    if (datos === "") {
+    if (datos === null || datos === "") {
 
         // Se añaden los datos de forma normal
         sessionStorage.setItem('datos',  JSON.stringify(Object.fromEntries(new FormData(formulario))));
@@ -26,6 +26,8 @@ function publicar() {
         sessionStorage.setItem('datos',  JSON.stringify(Object.fromEntries(new FormData(formulario))) + ";" + datos);
 
     }
+
+    creaXML()
 
 }
 
@@ -37,13 +39,12 @@ function vaciar() {
 }
 
 function creaXML(){
-    var parser = new DOMParser();
     var xml = `<?xml version="1.0" standalone="yes" ?>`;
     xml = xml +
         `<rss version="2.0">
     <channel>
     <title>Noticias E4</title>
-    <link>https://aleorfu-safa.github.io/Grupo4_LMSGI/</link>
+    <link>https://webg4.000webhostapp.com/index.html</link>
     <description>Sindicación de noticias elaboradas por E4</description>`
     for(var i=0; i<5; i++){
         datosLocal = JSON.parse(datos.split(";")[i])
@@ -56,10 +57,17 @@ function creaXML(){
     xml = xml +
         `</channel>
     </rss>`
-    var xmlDoc = parser.parseFromString(xml,"application/xml")
-    console.log(xmlDoc)
+
     let xhttp = new XMLHttpRequest();
     xhttp.open("POST", "../noticias.xml", true);
     xhttp.setRequestHeader("Content-Type", "text/xml");
+    xhttp.onreadystatechange = function() {
+        if (this.readyState === 4 && this.status === 200) {
+            // Aquí puedes realizar acciones si la petición se completa con éxito
+            console.log("XML Actualizado.");
+        }
+    };
+
     xhttp.send(xml);
+
 }
