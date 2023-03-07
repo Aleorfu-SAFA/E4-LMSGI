@@ -1,12 +1,13 @@
 #menuSuperior {
 
-    background-color: rgb(30, 30, 30);
+    background-color: #00001f;
 
 }
 
 .itemsMenu {
 
-    background-color: rgb(80, 80, 80);
+    display: block;
+    background-color: #1CB5E0;
     border: 2px solid black;
     border-radius: 20px;
     padding: 10px;
@@ -19,7 +20,9 @@
 
 body {
 
-    background-color: rgb(80, 80, 80);
+    background: #000046;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
@@ -39,9 +42,9 @@ label {
 
     color: white;
 
-    background-color: rgb(50, 50, 50);
+    background-color: #000046;
     border-radius: 20px;
-    box-shadow: 10px 10px 0px 5px black;
+    box-shadow: 5px 5px 2px 2px rgb(77, 0, 77);
 
     padding: 20px;
     margin-bottom: 40px;
@@ -51,5 +54,11 @@ label {
 .imagen {
 
     width: 100%;
+
+}
+
+#enlace {
+
+    color: #1CB5E0;
 
 }

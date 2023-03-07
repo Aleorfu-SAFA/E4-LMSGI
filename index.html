@@ -1,52 +1,59 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
-<head>
+    <!--Parte no visible-->
+    <head>
 
-    <!--Configuración de la página-->
-    <meta charset="UTF-8">
-    <title>Web con RSS</title>
+        <!--Configuración de la página-->
+        <meta charset="UTF-8">
+        <title>Web con RSS</title>
+        <link rel="shortcut icon" href="content/holograma.ico">
 
-    <!--Hojas de estilo-->
-    <!--Bootstrap5-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!--Hojas de estilo-->
+        <!--Bootstrap5-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <!--CSS-->
-    <link href="css/general.css" rel="stylesheet">
+        <!--CSS-->
+        <link href="css/general.css" rel="stylesheet">
 
-    <!--Scripts-->
-    <script src="js/noticias.js" defer></script>
+        <!--Scripts-->
+        <script src="js/noticias.js" defer></script>
+        <script src="js/RSS.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 
-</head>
-<body>
+    </head>
 
-    <!--Menú superior-->
-    <nav class="navbar navbar-dark menú-superior" id="menuSuperior">
+    <!--Parte Visible-->
+    <body>
 
-        <!--Barra-->
-        <div class="container-fluid">
+        <!--Menú superior-->
+        <nav class="navbar navbar-dark menú-superior" id="menuSuperior">
 
-            <!--Contenido del menú-->
-            <div class="top_nav">
+            <!--Barra-->
+            <div class="container-fluid">
 
-                <!--Botones-->
-                <div class="navbar-nav">
-                    <a href="index.html" class="itemsMenu nav-item">Inicio</a>
-                    <a href="formulario.html" class="itemsMenu nav-item">Formulario</a>
-                    <a href="noticias.xml" class="itemsMenu nav-item">RSS</a>
+                <!--Contenido del menú-->
+                <div class="top_nav">
+
+                    <!--Botones-->
+                    <div class="navbar-nav">
+                        <a href="index.html" class="itemsMenu nav-item">Inicio</a>
+                        <a href="formulario.html" class="itemsMenu nav-item">Formulario</a>
+                        <a class="itemsMenu nav-item" id="RSS">RSS</a>
+                    </div>
+
                 </div>
 
             </div>
 
-        </div>
+        </nav>
 
-    </nav>
+        <!--Pagina principal-->
+        <main>
 
-    <!--Pagina principal-->
-    <main>
+        </main>
 
-    </main>
-
-</body>
+    </body>
 </html>
