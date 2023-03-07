@@ -46,6 +46,10 @@ function creaXML(){
                         <title>${datosLocal.titulo}</title>
                         <link>${"https://webg4.000webhostapp.com/noticia"+(i+1)+".html"}</link>
                         <description>${datosLocal.descripcion}</description>
+                        <author>${datosLocal.autor}</author>
+                        <pubDate>${datosLocal.fecha}</pubDate>
+                        <category>${datosLocal.categoria}</category>
+                        <enclosure url="${datosLocal.imagen}" length="90000" type="image/jpg"/>
                     </item>`
         }
 
