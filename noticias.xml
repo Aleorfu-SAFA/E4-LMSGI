@@ -5,8 +5,17 @@
                     <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
                     <description>Sindicación de noticias elaboradas por E4</description>
                     <item>
-                        <title>oo</title>
+                        <title>u</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
+                        <description>u</description>
+                        <author>u</author>
+                        <pubDate>u</pubDate>
+                        <category>u</category>
+                        <enclosure url="u" length="90000" type="image/jpg"/>
+                    </item>
+                    <item>
+                        <title>oo</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
                         <description>o</description>
                         <author>o</author>
                         <pubDate>o</pubDate>
@@ -15,7 +24,7 @@
                     </item>
                     <item>
                         <title>i</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
                         <description>i</description>
                         <author>i</author>
                         <pubDate>i</pubDate>
@@ -24,7 +33,7 @@
                     </item>
                     <item>
                         <title>ee</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia4.html</link>
                         <description>e</description>
                         <author>e</author>
                         <pubDate>e</pubDate>
@@ -33,20 +42,11 @@
                     </item>
                     <item>
                         <title>asdasd</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia4.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia5.html</link>
                         <description>a</description>
                         <author>asdasd</author>
                         <pubDate>asdasd</pubDate>
                         <category>a</category>
                         <enclosure url="https://d7lju56vlbdri.cloudfront.net/var/ezwebin_site/storage/images/_aliases/img_1col/noticias/solar-orbiter-toma-imagenes-del-sol-como-nunca-antes/9437612-1-esl-MX/Solar-Orbiter-toma-imagenes-del-Sol-como-nunca-antes.jpg" length="90000" type="image/jpg"/>
-                    </item>
-                    <item>
-                        <title>Juan sa caio</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia5.html</link>
-                        <description>juan no se puede levanta</description>
-                        <author>Manolo</author>
-                        <pubDate>02/02/1998</pubDate>
-                        <category>Actualidad</category>
-                        <enclosure url="https://i.blogs.es/e1feab/google-fotos/1366_2000.jpg" length="90000" type="image/jpg"/>
                     </item></channel>
             </rss>
