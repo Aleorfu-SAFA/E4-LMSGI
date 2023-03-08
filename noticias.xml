@@ -1,16 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
-            <rss version="2.0">
-                <channel>
-                    <title>Noticias E4</title>
-                    <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
-                    <description>Sindicación de noticias elaboradas por E4</description>
-                    <item>
-                        <title>Goku</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
-                        <description>jaja</description>
-                        <author>Gokuista</author>
-                        <pubDate>Hoy</pubDate>
-                        <category>GOD</category>
-                        <enclosure url="https://images8.alphacoders.com/864/864900.png" length="90000" type="image/jpg"/>
-                    </item></channel>
-            </rss>
+<rss version="2.0">
+    <channel>
+        <title>Noticias E4</title>
+        <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
+        <description>Sindicación de noticias elaboradas por E4</description>
+        <item>
+            <title>Goku</title>
+            <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
+            <description>jaja</description>
+            <author>Gokuista</author>
+            <pubDate>Hoy</pubDate>
+            <category>GOD</category>
+            <enclosure url="https://images8.alphacoders.com/864/864900.png" length="90000" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
