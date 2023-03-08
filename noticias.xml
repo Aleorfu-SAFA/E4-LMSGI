@@ -1,18 +1,16 @@
-<?xml version="1.0" standalone="yes" encoding="utf8"?>
-<rss version="2.0">
-    <channel>
-    <title>Noticias E4</title>
-    <link>https://webg4.000webhostapp.com/index.html</link>
-    <description>Sindicación de noticias elaboradas por E4</description>
-	<item>
-        	<title>Juan a pillao</title>
-        	<link>https://webg4.000webhostapp.com/noticia1.html</link>
-        	<description>No pudo levantarse</description>
-        </item>
-	<item>
-        	<title>Juan sa caio</title>
-        	<link>https://webg4.000webhostapp.com/noticia2.html</link>
-        	<description>Juan no se puede levantar</description>
-        </item>
-	</channel>
-</rss>
+<?xml version="1.0" standalone="yes"?>
+            <rss version="2.0">
+                <channel>
+                    <title>Noticias E4</title>
+                    <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
+                    <description>Sindicación de noticias elaboradas por E4</description>
+                    <item>
+                        <title>Goku</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
+                        <description>jaja</description>
+                        <author>Gokuista</author>
+                        <pubDate>Hoy</pubDate>
+                        <category>GOD</category>
+                        <enclosure url="https://images8.alphacoders.com/864/864900.png" length="90000" type="image/jpg"/>
+                    </item></channel>
+            </rss>

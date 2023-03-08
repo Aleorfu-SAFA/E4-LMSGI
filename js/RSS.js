@@ -36,7 +36,7 @@ function creaXML(){
             <rss version="2.0">
                 <channel>
                     <title>Noticias E4</title>
-                    <link>${"https://webg4.000webhostapp.com/index.html"}</link>
+                    <link>${"https://aleorfu-safa.github.io/E4-LMSGI/"}</link>
                     <description>Sindicación de noticias elaboradas por E4</description>`;
 
         for(let i=0; i<j; i++){
@@ -44,7 +44,7 @@ function creaXML(){
             xml = xml + `
                     <item>
                         <title>${datosLocal.titulo}</title>
-                        <link>${"https://webg4.000webhostapp.com/noticia"+(i+1)+".html"}</link>
+                        <link>${"https://aleorfu-safa.github.io/E4-LMSGI/noticia"+(i+1)+".html"}</link>
                         <description>${datosLocal.descripcion}</description>
                         <author>${datosLocal.autor}</author>
                         <pubDate>${datosLocal.fecha}</pubDate>
