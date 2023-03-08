@@ -5,21 +5,21 @@
                     <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
                     <description>Sindicación de noticias elaboradas por E4</description>
                     <item>
-                        <title>Mami</title>
+                        <title>Juan sa caio</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
-                        <description></description>
-                        <author></author>
-                        <pubDate></pubDate>
-                        <category></category>
-                        <enclosure url="" length="90000" type="image/jpg"/>
+                        <description>juan no se puede levanta</description>
+                        <author>Manolo</author>
+                        <pubDate>02/02/1998</pubDate>
+                        <category>Actualidad</category>
+                        <enclosure url="https://i.kym-cdn.com/entries/icons/original/000/035/644/juancover.jpg" length="90000" type="image/jpg"/>
                     </item>
                     <item>
-                        <title>Goku</title>
+                        <title>Juan sa caio</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
-                        <description>jaja</description>
-                        <author>Gokuista</author>
-                        <pubDate>Hoy</pubDate>
-                        <category>GOD</category>
-                        <enclosure url="https://images8.alphacoders.com/864/864900.png" length="90000" type="image/jpg"/>
+                        <description>juan no se puede levanta</description>
+                        <author>Manolo</author>
+                        <pubDate>02/02/1998</pubDate>
+                        <category>Actualidad</category>
+                        <enclosure url="https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/a/a3/FB_IMG_1596591789564.jpg/revision/latest?cb=20200806023457&path-prefix=es" length="90000" type="image/jpg"/>
                     </item></channel>
             </rss>
