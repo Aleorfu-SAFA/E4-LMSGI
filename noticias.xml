@@ -5,8 +5,17 @@
                     <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
                     <description>Sindicación de noticias elaboradas por E4</description>
                     <item>
-                        <title>Juan sa caio</title>
+                        <title>adssad</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
+                        <description>asdad</description>
+                        <author>asdasd</author>
+                        <pubDate>asdasd</pubDate>
+                        <category>asdasd</category>
+                        <enclosure url="asdad" length="90000" type="image/jpg"/>
+                    </item>
+                    <item>
+                        <title>Juan sa caio</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
                         <description>juan no se puede levanta</description>
                         <author>Manolo</author>
                         <pubDate>02/02/1998</pubDate>
@@ -15,7 +24,7 @@
                     </item>
                     <item>
                         <title>Juan sa caio</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
                         <description>juan no se puede levanta</description>
                         <author>Manolo</author>
                         <pubDate>02/02/1998</pubDate>
