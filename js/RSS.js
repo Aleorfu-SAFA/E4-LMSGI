@@ -62,7 +62,7 @@ function creaXML(){
     }
 
     // Copiar link
-    navigator.clipboard.writeText("https://webg4.000webhostapp.com/noticias.xml");
+    navigator.clipboard.writeText("https://aleorfu-safa.github.io/E4-LMSGI/noticias.xml");
 
     // Cambiar texto por un segundo
     botonRSS.innerHTML = "Enlace copiado al portapapeles"
