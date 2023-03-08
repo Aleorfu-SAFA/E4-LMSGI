@@ -57,7 +57,7 @@ label {
 }
 
 .imagen {
-    width:fit-content;
+    width: 100%;
 }
 
 #enlace {
