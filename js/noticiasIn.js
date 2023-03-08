@@ -7,7 +7,7 @@ datos = JSON.parse(datos.split(";")[parseInt(document.querySelector('main').id)]
 // Escribo el "html" personalizado
 let html = `
     <section class="noticia">
-        <img id="imagen" src="${datos.imagen}"/>
+        <img id="imgNoticia" src="${datos.imagen}"/>
         <h2>${datos.titulo}</h2>
         <div class="cuerpo">
         <h4>${datos.categoria}</h4>

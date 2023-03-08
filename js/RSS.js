@@ -66,6 +66,6 @@ function creaXML(){
 
     // Cambiar texto por un segundo
     botonRSS.innerHTML = "Enlace copiado al portapapeles"
-    setTimeout(e => botonRSS.innerHTML = "RSS",1000)
+    setTimeout(e => botonRSS.innerHTML = '<img src="content/rss.png" alt="rss" width="15%">&nbsp;&nbsp;&nbsp;&nbsp;¡Suscríbete!', 1000)
 
 }
