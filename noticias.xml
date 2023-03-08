@@ -5,30 +5,39 @@
                     <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
                     <description>Sindicación de noticias elaboradas por E4</description>
                     <item>
-                        <title>adssad</title>
+                        <title>i</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
-                        <description>asdad</description>
+                        <description>i</description>
+                        <author>i</author>
+                        <pubDate>i</pubDate>
+                        <category>i</category>
+                        <enclosure url="i" length="90000" type="image/jpg"/>
+                    </item>
+                    <item>
+                        <title>ee</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
+                        <description>e</description>
+                        <author>e</author>
+                        <pubDate>e</pubDate>
+                        <category>eee</category>
+                        <enclosure url="e" length="90000" type="image/jpg"/>
+                    </item>
+                    <item>
+                        <title>asdasd</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
+                        <description>a</description>
                         <author>asdasd</author>
                         <pubDate>asdasd</pubDate>
-                        <category>asdasd</category>
-                        <enclosure url="asdad" length="90000" type="image/jpg"/>
+                        <category>a</category>
+                        <enclosure url="https://d7lju56vlbdri.cloudfront.net/var/ezwebin_site/storage/images/_aliases/img_1col/noticias/solar-orbiter-toma-imagenes-del-sol-como-nunca-antes/9437612-1-esl-MX/Solar-Orbiter-toma-imagenes-del-Sol-como-nunca-antes.jpg" length="90000" type="image/jpg"/>
                     </item>
                     <item>
                         <title>Juan sa caio</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia4.html</link>
                         <description>juan no se puede levanta</description>
                         <author>Manolo</author>
                         <pubDate>02/02/1998</pubDate>
                         <category>Actualidad</category>
-                        <enclosure url="https://i.kym-cdn.com/entries/icons/original/000/035/644/juancover.jpg" length="90000" type="image/jpg"/>
-                    </item>
-                    <item>
-                        <title>Juan sa caio</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
-                        <description>juan no se puede levanta</description>
-                        <author>Manolo</author>
-                        <pubDate>02/02/1998</pubDate>
-                        <category>Actualidad</category>
-                        <enclosure url="https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/a/a3/FB_IMG_1596591789564.jpg/revision/latest?cb=20200806023457&path-prefix=es" length="90000" type="image/jpg"/>
+                        <enclosure url="https://i.blogs.es/e1feab/google-fotos/1366_2000.jpg" length="90000" type="image/jpg"/>
                     </item></channel>
             </rss>
