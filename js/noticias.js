@@ -45,8 +45,7 @@ datos.forEach(function (valor) {
     <section class="noticia">
         <h2><a href="${enlace}">${json.titulo}</a></h2>
         <h4>${json.descripcion}</h4>
-        <h6>${json.categoria}</h6>
-        <p>${json.contenido}</p>
+        <h6>${json.categoria},${json.fecha}</h6>
     </section>
     `;
 
