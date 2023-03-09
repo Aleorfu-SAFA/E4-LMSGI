@@ -5,8 +5,17 @@
                     <link>https://aleorfu-safa.github.io/E4-LMSGI/</link>
                     <description>Sindicación de noticias elaboradas por E4</description>
                     <item>
-                        <title>Noticia 5</title>
+                        <title>Noticia 6</title>
                         <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia1.html</link>
+                        <description>Descripción noticia 6</description>
+                        <author>Alejandro</author>
+                        <pubDate>09/03/23</pubDate>
+                        <category>España</category>
+                        <enclosure url="https://3.bp.blogspot.com/-cDHlPZWgGZw/VE50_15YonI/AAAAAAACXHk/NvKhhAbeqnk/s1600/las%2Bmejores%2Bfotos%2Bde%2Bpaisajes%2Bnaturales%2B2014%2B(3).jpg" length="90000" type="image/jpg"/>
+                    </item>
+                    <item>
+                        <title>Noticia 5</title>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
                         <description>Descripción de la noticia 5</description>
                         <author>Juan Manolo</author>
                         <pubDate>09/03/23</pubDate>
@@ -15,7 +24,7 @@
                     </item>
                     <item>
                         <title>Noticia 4</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia2.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
                         <description>Descripción noticia 4</description>
                         <author>Carlos Ruiz</author>
                         <pubDate>09/03/23</pubDate>
@@ -24,7 +33,7 @@
                     </item>
                     <item>
                         <title>Noticia 3</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia3.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia4.html</link>
                         <description>Descripción notica 3</description>
                         <author>Victor Vilches</author>
                         <pubDate>09/03/23</pubDate>
@@ -33,20 +42,11 @@
                     </item>
                     <item>
                         <title>Noticia 2</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia4.html</link>
+                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia5.html</link>
                         <description>Descripción Noticia 2</description>
                         <author>Alejandro Ortiz</author>
                         <pubDate>09/03/23</pubDate>
                         <category>Anime y Manga</category>
                         <enclosure url="https://1.bp.blogspot.com/-JCw0pdyp_7w/VAc1kOrvoFI/AAAAAAACTXY/FvawFkSX_Gs/s1600/paisajes%2Bnaturales%2B-%2Bnaturaleza%2B-%2Bnatural%2Bfree%2Blandscapes%2B-%2Bfotos%2Bde%2Bpaisajes%2B(4).jpg" length="90000" type="image/jpg"/>
-                    </item>
-                    <item>
-                        <title>Noticia 1</title>
-                        <link>https://aleorfu-safa.github.io/E4-LMSGI/noticia5.html</link>
-                        <description>Descripción noticia 1</description>
-                        <author>Pedro Real</author>
-                        <pubDate>09/03/23</pubDate>
-                        <category>Comedia</category>
-                        <enclosure url="https://i.pinimg.com/originals/e8/a0/cc/e8a0cc95917c1a8d2dde6a388ed7da43.jpg" length="90000" type="image/jpg"/>
                     </item></channel>
             </rss>
